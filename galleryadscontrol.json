@@ -8,9 +8,9 @@
      "ShowLoadingAds": true,
 
     "AdmobInterstitial": "ca-app-pub-3425260432981181/7778766981",
-    "AdmobBanner":"ca-app-pub-3425260432981181/4072144624",
+    "AdmobBanner":"ca-app-pub-3425260432981181/4072144624dd",
     "AdmobNative":"ca-app-pub-3425260432981181/9025088400",
-    "AdmobOpen":"ca-app-pub-3425260432981181/2526440300",
+    "AdmobOpen":"ca-app-pub-3425260432981181/2526440300dd",
 
     "unity_inter": "Interstitial_Android",
     "unity_banner": "Banner_Android",
